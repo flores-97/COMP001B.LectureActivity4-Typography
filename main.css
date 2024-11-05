@@ -31,3 +31,9 @@ p{
     line-height: 130%;
     margin: 2em;
 }
+
+.roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
