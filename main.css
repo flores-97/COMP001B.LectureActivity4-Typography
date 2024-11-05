@@ -1,8 +1,9 @@
 h1, h2{
     text-align: center;
     border: 5px;
-    border-color: black;;
 }
+
+h2
 
 *{
     margin: 0;
@@ -11,25 +12,35 @@ h1, h2{
 
 p{
     line-height: 140%;
-    text-align: center;
+    text-align: left;
+    border-style: solid;
 }
 
-.Overview, p{
+.Overview{
     text-indent: 4em;
     line-height: 130%;
-    margin: 2em;
+    margin-bottom: 10em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 10em;
+    
 }
 
-.development, p{
+.development{
     text-indent: 0;
     line-height: 130%;
-    margin: 2em;
+    margin-bottom: 10em;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    margin-top: 10em;
 }
 
-.minifigs, p{
-    margin-bottom: 1em;
+.minifigs{
     line-height: 130%;
-    margin: 2em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
 }
 
 .roboto-regular-italic {
