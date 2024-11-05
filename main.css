@@ -1,0 +1,33 @@
+h1, h2{
+    text-align: center;
+    border: 5px;
+    border-color: black;;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    line-height: 140%;
+    text-align: center;
+}
+
+.Overview, p{
+    text-indent: 4em;
+    line-height: 130%;
+    margin: 2em;
+}
+
+.development, p{
+    text-indent: 0;
+    line-height: 130%;
+    margin: 2em;
+}
+
+.minifigs, p{
+    margin-bottom: 1em;
+    line-height: 130%;
+    margin: 2em;
+}
